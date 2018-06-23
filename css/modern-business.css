@@ -27,3 +27,15 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.product-row {
+  display: table;
+    margin-bottom:20px
+    border-spacing:20px;
+}
+
+.product-item {
+  float: none;
+  display: table-cell;
+    vertical-align: bottom;
+}
